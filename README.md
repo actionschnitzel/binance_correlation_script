@@ -4,6 +4,27 @@ A jupyter notebook that calculates correlation matrices for crypto coins in bina
 
 This script will require a binance API key to run and will do the following
 
+## dependencies
+[Jupiter Nootbook](https://jupyter.org/install)
+- pip install notebook    
+## useage    
+1. run:
+```jupyter notebook```
+
+2. in browser choose path to "auto_coin_list"
+
+3. Follow the instructions
+
+4. Cell > RUN ALL
+
+5. Wait ca. 10 min to finish
+
+
+
+
+  
+
+
 
 **1.** Download binance coin data from coinlist
 
