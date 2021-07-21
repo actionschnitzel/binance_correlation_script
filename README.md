@@ -5,6 +5,14 @@ A jupyter notebook that calculates correlation matrices for crypto coins in bina
 This script will require a binance API key to run and will do the following
 
 ## dependencies
+python-binance==0.7.9
+datetime
+matplotlib==3.3.1
+numpy==1.19.1
+pandas==1.2.4
+seaborn==0.11.1
+
+
 [Jupiter Nootbook](https://jupyter.org/install)    
  ```pip install notebook```        
 ## useage    
