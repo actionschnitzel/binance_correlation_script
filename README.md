@@ -11,7 +11,9 @@ This script will require a binance API key to run and will do the following
 1. run:
 ```jupyter notebook```
 
-2. in browser choose path to "auto_coin_list"
+2. in browser choose path to "auto_coin_list" (when you type "jupiter notebook" in terminal or CMD it opens a Browser tab, from where you can access the auto_coin_list.ipynb
+    
+2.1 click on binance_correlation_script >  auto_coin_list.ipynb and thats it
 
 3. Follow the instructions
 
