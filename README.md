@@ -1,5 +1,5 @@
 # How to USE binance_correlation_script 
-
+NOTE: I just forked this an added some install and usage instructions ;-)
 ## dependencies
 
 ```
