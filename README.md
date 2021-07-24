@@ -1,16 +1,18 @@
-## binance_correlation_script
-
-A jupyter notebook that calculates correlation matrices for crypto coins in binance exchange
-
-This script will require a binance API key to run and will do the following
+# How to USE binance_correlation_script 
 
 ## dependencies
-python-binance==0.7.9
-datetime
-matplotlib==3.3.1
-numpy==1.19.1
-pandas==1.2.4
-seaborn==0.11.1
+
+```
+git clone https://github.com/kentwar/binance_correlation_script #downloads the the script
+```
+```
+pip install python-binance
+pip install datetime
+pip install matplotlib
+pip install numpy
+pip install pandas
+pip install seaborn
+```
 
 
 [Jupiter Nootbook](https://jupyter.org/install)    
@@ -31,25 +33,3 @@ seaborn==0.11.1
 
 
 ****
-
-  
-
-
-
-**1.** Download binance coin data from coinlist
-
-**2.** Produce correlation matrix for
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Raw Coin value** (1 minute intervals)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Detrended coin value** (first difference)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Detrended coin value** (rolling mean) 
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**rolling mean** itself
-
-coded in Python 3.7
-
-## auto_coin_list.ipynb
-
-An automatic coin list generator that will scout binance for the most correlated trading pairs to a single starting coin. 
