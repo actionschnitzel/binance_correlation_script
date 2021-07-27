@@ -20,8 +20,7 @@ pip install seaborn
  ```sudo apt install jupyter-core```        
 ## useage    
 1. run:
-```jupyter notebook
-```
+```jupyter notebook```
 
 2. in browser choose path to "auto_coin_list" (when you type "jupiter notebook" in terminal or CMD it opens a Browser tab, from where you can access the auto_coin_list.ipynb
     
